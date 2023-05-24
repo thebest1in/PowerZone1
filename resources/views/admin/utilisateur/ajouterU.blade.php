@@ -1,0 +1,1 @@
+<div><livewire:table-inline-edit data="{{ $data }}" /></div>
